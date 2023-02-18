@@ -1,10 +1,12 @@
 Game Launcher is the Ultimate Solution to manage the updates of your game or app by creating patches using the Binary Diff technique.
 
-**This is only a DEMO**  
+Check out the Live Demo!
+
+| [Download Demo](https://game-launcher.net/) |
 
 **Links**
 
-| [Website](https://game-launcher.net/) | [Basic Version](https://assetstore.unity.com/packages/tools/utilities/game-launcher-patcher-and-updater-217526) | [Pro Version \[Full Source Code\]](https://assetstore.unity.com/packages/tools/utilities/game-launcher-patcher-and-updater-pro-237342) | Enterprise (Soon) | [Video](https://youtu.be/FhiilefzooU) | [Documentation](https://gamelauncher.gitbook.io/documentation/) |
+| [Website](https://game-launcher.net/) | [Basic Version](https://assetstore.unity.com/packages/tools/utilities/game-launcher-patcher-and-updater-217526) | [Pro Version \[Full Source Code\]](https://assetstore.unity.com/packages/tools/utilities/game-launcher-patcher-and-updater-pro-237342) | Enterprise (Soon) | [Video](https://youtu.be/FhiilefzooU) | [Documentation](https://gamelauncher.gitbook.io/documentation/) | 
 
 **Other Launcher Templates (Soon)**
 
