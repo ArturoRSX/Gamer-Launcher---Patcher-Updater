@@ -16,9 +16,7 @@ Check out the Live Demo!
 
 [**carlosarturors@gmail.com**](mailto:carlosarturors@gmail.com)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9fefd931bc46432664642275bc442525206f0ec86542eb94.png)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/853467d93b034537f8a14bd855b27592e4caad736e8537ad.png)
+![Cover Image(1950 x 1300)](https://github.com/user-attachments/assets/a9bf17e6-756d-4012-afef-d90adfbe8a1f)
 
 **▽ Features ▽**
 
